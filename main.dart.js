@@ -35700,7 +35700,7 @@ q=t.G
 p=A.cH(B.aR,A.ka(B.b3,A.b([A.cH(B.aR,l,B.p,l,l,B.xk,l,l,l,l,l,l,1/0),A.cH(B.aR,l,B.p,l,l,B.xi,l,l,l,l,l,l,1/0),A.cH(B.aR,l,B.p,l,l,B.xl,l,l,l,l,l,l,1/0),A.cH(B.fA,l,B.p,l,l,B.xo,l,l,l,l,l,l,1/0)],q),B.bh),B.p,l,l,l,l,l,l,l,l,l,1/0)
 o=A.CU(l,new A.ql(l),l,l,l,30,10,l)
 n=A.cH(B.aR,l,B.p,l,l,B.xq,l,l,l,l,l,l,1/0)
-m=s==="small"||s==="xsmall"?A.bp(a,B.fr,k).w.a.b*0.87:A.bp(a,B.fr,k).w.a.b*0.95
+m=s==="small"||s==="xsmall"?A.bp(a,B.fr,k).w.a.b*0.88:A.bp(a,B.fr,k).w.a.b*0.95
 k=A.bp(a,B.fr,k).w
 return A.aaa(!0,new A.uj(A.ka(B.b3,A.b([r,p,o,n,A.CU(0,new A.A4(B.FM,$.aku(),l),m,l,l,l,l,k.a.a),A.ru(A.cH(B.aR,l,B.p,l,l,B.xp,l,l,l,l,l,l,1/0),!0,l),A.ru(A.cH(B.aR,l,B.p,l,l,B.xj,l,l,l,l,l,l,1/0),!0,l)],q),B.bh),l),B.aH,!0)}}
 A.ql.prototype={
