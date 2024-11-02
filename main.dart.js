@@ -35767,7 +35767,7 @@ n=A.fO("Flutter | Android | IOS | Web",A.mt(j,j,j,j,j,j,j,j,j,j,j,10,j,j,j,j,j,!
 m=A.fe(j,10,j)
 l=A.kU(20)
 k=t.G
-return A.acR(B.L,B.kc,A.cH(j,A.ka(B.b3,A.b([new A.hT(B.jq,j,j,s,j),A.zK(A.b([r,q,p,o,n,m,A.cH(j,A.fO("Hello! I'm Arpandev, a passionate Flutter Developer dedicated to crafting beautiful, user-centric mobile and web applications. With expertise in creating seamless, responsive UI and a love for innovative design, I focus on delivering engaging digital experiences. Constantly learning and evolving with new technologies, I strive to make every project efficient, scalable, and enjoyable for users. Let\u2019s build something amazing together!",A.auv().$2$color$fontSize(B.zh,12),B.cs),B.p,j,j,new A.c7(B.h1,j,j,l,j,j,B.Z),j,j,j,new A.aS(15,10,15,10),j,j,j)],k),B.i1,B.dl)],k),B.bh),B.p,j,j,j,j,i.a.b*0.53,j,new A.aS(10,10,10,10),j,j,h.a.a*0.13),1,B.a9,new A.aS(10,0,10,0))},
+return A.acR(B.L,B.kc,A.cH(j,A.ka(B.b3,A.b([new A.hT(B.jq,j,j,s,j),A.zK(A.b([r,q,p,o,n,m,A.cH(j,A.fO("Hello! I'm Arpandev, a passionate Flutter Developer dedicated to crafting beautiful, user-centric mobile and web applications. With expertise in creating seamless, responsive UI and a love for innovative design, I focus on delivering engaging digital experiences. Constantly learning and evolving with new technologies, I strive to make every project efficient, scalable, and enjoyable for users. Let\u2019s build something amazing together!",A.auv().$2$color$fontSize(B.zh,12),B.cs),B.p,j,j,new A.c7(B.h1,j,j,l,j,j,B.Z),j,j,j,new A.aS(15,10,15,10),j,j,j)],k),B.i1,B.dl)],k),B.bh),B.p,j,j,j,j,i.a.b*0.54,j,new A.aS(10,10,10,10),j,j,h.a.a*0.1),1,B.a9,new A.aS(10,0,10,0))},
 $S:106}
 A.X5.prototype={
 $0(){A.nV(this.a,!1).f6()},
@@ -35791,7 +35791,7 @@ j=A.a8W(new A.dG("assets/virtualAssistant.png",g,g),20)
 i=A.fO("Esha-Assistant",A.yx().$3$color$fontSize$fontWeight(B.m,10,B.aK),g)
 h=t.G
 l=A.afj(A.b([m,k,A.cH(g,A.aea(j,A.fO("A Flutter based voice assistant powered by OpenAI",A.yx().$1$fontSize(7),g),i,A.S7(A.Bd(B.kX,g,g),new A.X9())),B.p,g,g,new A.c7(B.h1,g,g,l,g,g,B.Z),g,g,g,new A.aS(0,10,0,10),g,g,g)],h),!0,!0,!0)
-return A.acR(B.L,B.kc,A.cH(g,A.ka(B.b3,A.b([new A.hT(B.jq,g,g,s,g),A.zK(A.b([r,q,p,o,n,new A.BF(l,g,B.b6,!1,g,g,B.jr,!0,g,3,B.aF,B.vl,g,B.c3,B.at,g)],h),B.i1,B.dl)],h),B.bh),B.p,g,g,g,g,f.a.b*0.4,g,new A.aS(10,10,10,10),g,g,e.a.a*0.13),1,B.a9,new A.aS(20,0,20,0))},
+return A.acR(B.L,B.kc,A.cH(g,A.ka(B.b3,A.b([new A.hT(B.jq,g,g,s,g),A.zK(A.b([r,q,p,o,n,new A.BF(l,g,B.b6,!1,g,g,B.jr,!0,g,3,B.aF,B.vl,g,B.c3,B.at,g)],h),B.i1,B.dl)],h),B.bh),B.p,g,g,g,g,f.a.b*0.4,g,new A.aS(10,10,10,10),g,g,e.a.a*0.12),1,B.a9,new A.aS(20,0,20,0))},
 $S:106}
 A.X7.prototype={
 $0(){A.nV(this.a,!1).f6()},
